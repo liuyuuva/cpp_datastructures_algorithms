@@ -37,6 +37,7 @@ int main(int argc, char *argv[])
   cout << list.GetSize() << endl;
   static_cast<void>(list.PopFront());
 
+  
   cout << "List after pop front:" << list << endl;
 
   static_cast<void>(list.PopBack());
