@@ -4,7 +4,7 @@
 #define HASH_H
 
 constexpr int kListLength = 10;
-constexpr int kHashNullKey = -9999;
+
 
 class Hash{
  public:
